@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+}
+
+
+textarea{
+    width: 16cm;
+    height: 2cm;
+    background-color:ghostwhite;
+
+}
+
+button{
+    width: 4cm;
+    height:1cm;
+    border: none;
+    background-color:green;
+    font:italic;
+
+}
+
+
+img{
+    width: 10cm;
+    align-items: center;
+}
+
